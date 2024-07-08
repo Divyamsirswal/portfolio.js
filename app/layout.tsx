@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 const spaceGrotesk = Space_Grotesk({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://next-supabase-vote.vercel.app/"),
+  metadataBase: new URL("https://portfolio-js-seven-kappa.vercel.app/"),
 
   title: "Divyam Sirswal",
   authors: {
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     title: "Divyam Sirswal",
     description:
       "Based in India, I'm a Fullstack developer passionate about building a modern web application that users love and me tooo..",
-    url: "https://next-supabase-vote.vercel.app/",
+    url: "https://portfolio-js-seven-kappa.vercel.app/",
     siteName: "Divyam Sirswal",
     images: "/og.png",
     type: "website",
